@@ -12,15 +12,6 @@ To get started with this repository, follow these steps:
     cd Python_Primer_Chapter1
     ```
 
-3. Install any necessary dependencies by running:
-    ```
-    npm install
-    ```
-
-4. Start the application by running:
-    ```
-    npm start
-    ```
 
 ## About the Repository
 This repository contains exercises and solutions for learning Python programming. It is organized into chapters, with each chapter focusing on specific concepts and techniques.
