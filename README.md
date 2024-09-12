@@ -4,12 +4,12 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine using the command:
     ```
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/DharambirAgrawal/Python_Primer_Chapter1
     ```
 
 2. Navigate to the repository directory:
     ```
-    cd your-repo
+    cd Python_Primer_Chapter1
     ```
 
 3. Install any necessary dependencies by running:
